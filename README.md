@@ -32,7 +32,7 @@ Aspiring Data Engineer | Python & Django Developer | Power BI Enthusiast
 
 ## 📫 Online Profiles
 - [GitHub](https://github.com/Rimil11)
-- [LeetCode](https://leetcode.com/rimilhans2003/)
+- [LeetCode](https://leetcode.com/u/Rimil11/)
 
 ---
 
