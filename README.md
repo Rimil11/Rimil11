@@ -30,13 +30,12 @@ Aspiring Data Engineer | Python & Django Developer | Power BI Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-![Rimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimil11&show_icons=true&theme=radical)
-
-## 🧮 LeetCode Stats
-![LeetCode Stats](https://leetcode.com/rimilhans2003/)
+## 📫 Online Profiles
+- [GitHub](https://github.com/Rimil11)
+- [LeetCode](https://leetcode.com/rimilhans2003/)
 
 ---
 
 ## 📫 Connect With Me
-- Email: [rimilhans2003@gmail..com](mailto:your-email@example.com)  
+- Email: [rimilhans2003@gmail.com](mailto:rimilhans2003@gmail.com)
+
