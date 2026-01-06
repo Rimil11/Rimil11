@@ -5,7 +5,7 @@ Aspiring Data Engineer | Python & Django Developer | Data Pipeline Enthusiast
 - 📊 Exploring **Data Engineering** with Python, SQL, and ETL tools
 - 🛠️ Skilled in debugging, stack/dictionary manipulation, and backend development
 - 🌱 Learning Big Data tools (Spark, Kafka) and Cloud (AWS/GCP)
-- 📫 Reach me: [LinkedIn](your-link) | [Email](mailto:your-email)
+- 📫 Reach me: [Email](mailto:rimilhans2003@gmail.com)
 
 ---
 
@@ -13,6 +13,3 @@ Aspiring Data Engineer | Python & Django Developer | Data Pipeline Enthusiast
 - [Pizza Report Dashboard](https://github.com/Rimil11/Pizza-Report-Dashboard)
 - [TravelBuddy – Tourism Management System](https://github.com/Rimil11/Trourism-Management-System)  
 
----
-
-![Rimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpai0002&show_icons=true&theme=radical)
