@@ -5,7 +5,7 @@ Aspiring Data Engineer | Python & Django Developer | Data Pipeline Enthusiast
 - 📊 Exploring **Data Engineering** with Python, SQL, and ETL tools
 - 🛠️ Skilled in debugging, stack/dictionary manipulation, and backend development
 - 🌱 Learning Big Data tools (Spark, Kafka) and Cloud (AWS/GCP)
-- 📫 Reach me: [Email](mailto:rimilhans2003@gmail.com)
+- 📫 Reach me: rimilhans2003@gmail.com
 
 ---
 
