@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rimil 👋
+Aspiring Data Engineer | Python & Django Developer | Data Pipeline Enthusiast
 
-<!--
-**Rimil11/Rimil11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building **TravelBuddy – Tourism Management System**
+- 📊 Exploring **Data Engineering** with Python, SQL, and ETL tools
+- 🛠️ Skilled in debugging, stack/dictionary manipulation, and backend development
+- 🌱 Learning Big Data tools (Spark, Kafka) and Cloud (AWS/GCP)
+- 📫 Reach me: [LinkedIn](your-link) | [Email](mailto:your-email)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Pizza Report Dashboard](https://github.com/Rimil11/Pizza-Report-Dashboard)
+- [TravelBuddy – Tourism Management System](https://github.com/Rimil11/Trourism-Management-System)  
+
+---
+
+![Rimil's GitHub stats](https://github-readme-stats.vercel.app/api?username=senpai0002&show_icons=true&theme=radical)
