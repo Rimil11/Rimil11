@@ -22,11 +22,11 @@ Aspiring Data Engineer | Python & Django Developer | Power BI Enthusiast
 ---
 
 ## 📂 Featured Projects
-- [TravelBuddy – Tourism Management System](https://github.com/Rimil11/Trourism-Management-System)  
-  *Full-stack Django app for hotel, travel, and tour bookings with admin control.*  
-
 - [Pizza Report Dashboard](https://github.com/Rimil11/Pizza-Report-Dashboard)  
-  *Power BI dashboard for analyzing pizza sales and customer trends.*  
+  *Power BI dashboard for analyzing pizza sales and customer trends.*
+  
+- [TravelBuddy – Tourism Management System](https://github.com/Rimil11/Trourism-Management-System)  
+  *Full-stack Django app for hotel, travel, and tour bookings with admin control.*   
 
 ---
 
